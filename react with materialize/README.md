@@ -4,6 +4,6 @@
 
 > You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
 
-Hosted on netlify at [matrec.netlify.app] (https://www.matrec.netlify.app)
+> Hosted on netlify at [matrec.netlify.app](https://www.matrec.netlify.app)
 
 ### Thank you
