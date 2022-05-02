@@ -27,7 +27,7 @@
 ---
 </br>
 
-#### This isa the view on Mobile devices
+#### This is the view on Mobile devices
 ![Mobile View](https://user-images.githubusercontent.com/24590667/166195699-dce1e760-307c-4a44-b177-cd78b64825a4.JPG)
 
 
