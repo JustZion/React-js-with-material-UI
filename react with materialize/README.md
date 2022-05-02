@@ -16,16 +16,18 @@
 </br>
 
 #### This is the view on Ipads and Tablets
+---
 ![Ipad and Tablet view](https://user-images.githubusercontent.com/24590667/166195687-18491b06-c494-428e-bdd6-7ac35ce8e294.JPG)
 ---
 </br>
 
 #### This is the view on mini pads
+---
 ![600px to 960px view](https://user-images.githubusercontent.com/24590667/166195691-058bb99d-1b3f-4f50-b6ba-b3fb52f973c9.JPG)
 ---
 </br>
 
-#### This it the view on Mobile devices
+#### This isa the view on Mobile devices
 ![Mobile View](https://user-images.githubusercontent.com/24590667/166195699-dce1e760-307c-4a44-b177-cd78b64825a4.JPG)
 
 
